@@ -31,8 +31,8 @@ Project created to display some concepts about JavaScript.
 (Projeto criado par mostrar alguns conceitos de JavaScript).
 
 
-- [Access the finished project online](https://alanovictor.github.io/Cordel-Moderno/)<br>
-- [Acesse o projeto finalizado online](https://alanovictor.github.io/Cordel-Moderno/)
+- [Access the finished project online](https://alanovictor.github.io/Verificador-Idade/)<br>
+- [Acesse o projeto finalizado online](https://alanovictor.github.io/Verificador-Idade/)
 
 
 
